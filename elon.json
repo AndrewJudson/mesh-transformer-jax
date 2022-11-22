@@ -26,6 +26,8 @@
 
   "train_set": "elon.train.index",
 
+  "eval_harness_tasks": "None, need to include a value for code to work tho", 
+
   "val_batches": 100,
   "val_every": 99999999999,
   "ckpt_every": 500,
